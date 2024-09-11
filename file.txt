@@ -1,2 +1,2 @@
 This is my first text in this
-This is Master and conflict branch
+This is Remote repo
